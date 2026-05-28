@@ -27,47 +27,6 @@ def signing(sign, saved):
         f.write(content)
         print("saved successfully")
         print(content)
-    
-    
-
-
-    
-
-def keywords(file):
-    core= [
-    "Service Agreement",
-    "Agreement",
-    "Provider",
-    "Client",
-    "Services",
-    "Term",
-    "Payment",
-    "Responsibilities",
-    "Intellectual Property",
-    "Confidentiality",
-    "Termination",
-    "Limitation of Liability",
-    "Governing Law",
-    "Entire Agreement",
-    "Signed"
-    ]
-    action = [
-    "perform",
-    "deliver",
-    "pay",
-    "provide",
-    "own",
-    "keep confidential",
-    "terminate",
-    "resolve disputes"
-]
-
-    results = [x for words in (core,action) for x in words ]
-    keyword = re.search(results,file)
-    if keyword:
-        print(f"These keywords were found {keyword}")
-    else:
-        print("This contract does not have keywords")
 
 def opener (file):
     with open(file) as f:
@@ -87,8 +46,6 @@ def options(option, name):
     match user:
         case "r":
             opener(option)
-        case "x":
-            keywords(option)
         case "l":
             signing(option,name)
 
