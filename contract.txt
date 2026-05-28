@@ -1,0 +1,63 @@
+SERVICE AGREEMENT
+
+This Service Agreement ("Agreement") is made on [Date] between:
+
+1. "Provider": [Provider Name], located at [Provider Address]
+2. "Client": [Client Name], located at [Client Address]
+
+1. SERVICES
+Provider agrees to perform the following services for Client:
+[Describe the services in clear detail]
+
+2. TERM
+This Agreement begins on [Start Date] and will continue until:
+- [End Date], or
+- completion of the services, unless terminated earlier as outlined below.
+
+3. PAYMENT
+Client agrees to pay Provider:
+- Amount: [£Amount]
+- Payment terms: [e.g., 50% upfront, 50% on completion]
+- Payment method: [Bank transfer / PayPal / Other]
+
+4. RESPONSIBILITIES
+4.1 Provider Responsibilities:
+- Perform the services with reasonable skill and care.
+- Deliver work by agreed deadlines where possible.
+
+4.2 Client Responsibilities:
+- Provide necessary information, access, and approvals in a timely manner.
+- Make payments on time as agreed.
+
+5. INTELLECTUAL PROPERTY
+Unless otherwise agreed in writing:
+- Upon full payment, Client will own the final deliverables.
+- Provider may keep copies for portfolio and record-keeping purposes.
+
+6. CONFIDENTIALITY
+Both parties agree to keep confidential any non-public information received from the other party in connection with this Agreement.
+
+7. TERMINATION
+Either party may terminate this Agreement by giving [Number] days’ written notice.  
+Client will pay Provider for all work completed up to the termination date.
+
+8. LIMITATION OF LIABILITY
+Provider will not be liable for any indirect, incidental, or consequential damages.  
+Total liability under this Agreement will not exceed the total fees paid by Client.
+
+9. GOVERNING LAW
+This Agreement is governed by the laws of [Jurisdiction] and any disputes will be resolved in the courts of [Jurisdiction].
+
+10. ENTIRE AGREEMENT
+This Agreement represents the entire understanding between the parties and supersedes all prior discussions or agreements.
+
+SIGNED:
+
+Provider:
+Name: provname
+Date: ___
+
+Client: 
+Name: name
+Date: ___
+in this contract i want you to take the section that user fills in and put them in a list
